@@ -1,0 +1,11 @@
+numpy
+opencv-python
+pydicom
+tqdm
+matplotlib
+imageio
+scikit-image
+nibabel
+dicom2nifti
+json5
+pandas
